@@ -1,0 +1,5 @@
+C:\Users\jxyu\source\repos\UnityCoroutine\UnityCoroutine\bin\Debug\UnityCoroutine.exe
+C:\Users\jxyu\source\repos\UnityCoroutine\UnityCoroutine\bin\Debug\UnityCoroutine.pdb
+C:\Users\jxyu\source\repos\UnityCoroutine\UnityCoroutine\obj\Debug\UnityCoroutine.csprojAssemblyReference.cache
+C:\Users\jxyu\source\repos\UnityCoroutine\UnityCoroutine\obj\Debug\UnityCoroutine.exe
+C:\Users\jxyu\source\repos\UnityCoroutine\UnityCoroutine\obj\Debug\UnityCoroutine.pdb
