@@ -1,0 +1,5 @@
+D:\GitHub\TestUnityEngine\TestUnityEngine\bin\Debug\TestUnityEngine.exe
+D:\GitHub\TestUnityEngine\TestUnityEngine\bin\Debug\TestUnityEngine.pdb
+D:\GitHub\TestUnityEngine\TestUnityEngine\obj\Debug\TestUnityEngine.csprojAssemblyReference.cache
+D:\GitHub\TestUnityEngine\TestUnityEngine\obj\Debug\TestUnityEngine.exe
+D:\GitHub\TestUnityEngine\TestUnityEngine\obj\Debug\TestUnityEngine.pdb

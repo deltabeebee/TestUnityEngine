@@ -5,6 +5,15 @@ using System.Threading;
 
 namespace TestUnityEngine
 {
+    public class Application
+    {
+        public static bool isRun = true;
+        public static void Quit()
+        {
+            //退出程序
+            isRun = false;
+        }
+    }
     public class Debug
     {
         public static void Log(object obj)
@@ -46,7 +55,7 @@ namespace TestUnityEngine
         //引擎启动
         public void Start()
         {
-            while (true)
+            while (Application.isRun)
             {
                 Time.fps++;
                 Thread.Sleep((int)(Time.deltaTime * 1000));

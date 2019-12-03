@@ -27,9 +27,11 @@ namespace TestUnityEngine
             yield return 120;
             Debug.Log("我等了120帧");
             yield return new WaitForSeconds(3f);
-            Debug.Log("稍等三秒...");
+            Debug.Log("我等了三秒...");
             yield return new WaitForSeconds(5f);
-            Debug.Log("稍等五秒...");
+            Debug.Log("我等了五秒...三秒后结束程序");
+            yield return new WaitForSeconds(3f);
+            Application.Quit();
         }
         public override void Update()
         {
